@@ -4,6 +4,9 @@ import './App.css';
 
 function App() {
   // test comment 1
+  if (true) {
+    alert("BAD CODE!");
+  }
   return (
     <div className="App">
       <header className="App-header">

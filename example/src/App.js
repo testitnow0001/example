@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  var a = 2
   // test comment 1
   if (true) {
     alert("BAD CODE!");
